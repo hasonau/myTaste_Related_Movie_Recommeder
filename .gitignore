@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python
+myenv/
+venv/
+__pycache__/
+*.pyc
+
+# Node / React
+node_modules/
+my-react-app/node_modules/
+build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
