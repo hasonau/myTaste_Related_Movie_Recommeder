@@ -6,6 +6,8 @@ myenv/
 venv/
 __pycache__/
 *.pyc
+ratings.csv
+watched.csv
 
 # Node / React
 node_modules/
